@@ -6,6 +6,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+   
 }
 
 /* || ROOT */
@@ -31,6 +32,7 @@
 body {
     position: relative;
     background-color: var(--LIGHT-BG-COLOR);
+    
 }
 
 
@@ -160,6 +162,7 @@ nav {
 /* || BOX-1 */
 .weather-box1 {
     background: linear-gradient(to right bottom, #b7f1f3, #feddcd);
+    background-image: url(https://i.pinimg.com/originals/c6/14/23/c6142319baaa6280f31d2fcb92557783.gif);
 
 }
 
@@ -449,7 +452,9 @@ nav {
     position: relative;
     width: 100%;
     border-radius: var(--STANDERED-RADIUS);
-    background-image: url(woman-riding-bike-under-an-umbrella-during-the-rain-fall-rain-autumn-outdoor-activities-vector.jpg);
+    background-image: url("https://cutewallpaper.org/25/animated-wallpaper-that-move-gif-snow/nevecervo30framegif-450%C3%97308-moving-backgrounds-winter-wallpaper-animated-christmas.gif");
+    /* background-image: url(woman-riding-bike-under-an-umbrella-during-the-rain-fall-rain-autumn-outdoor-activities-vector.jpg); */
+    /* background-image: url(https://media.tenor.com/jVxwbKBd-pMAAAAC/frozen-elsa.gif); */
     background-position: center;
     background-size: cover;
     margin: 30px 0 20px;
